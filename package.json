@@ -1,0 +1,11 @@
+{
+  "name": "namaste-react-live",
+  "version": "1.0.0",
+  "description": "This is namaste react live course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kiran Chikhalikar",
+  "license": "ISC"
+}
