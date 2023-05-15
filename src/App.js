@@ -5,7 +5,6 @@ import Body from "./Component/Body";
 import Footer from "./Component/Footer";
 import { IMG_CDN_URL } from "./Constants";
 
-
 const AppLayout = () => {
   return (
     <>
